@@ -1,5 +1,5 @@
 # Prediction-of-cost-efficient-measures-to-improve-energy-access
-The paper is published in the peer‐reviewed Proceedings of the 6 International Conference on Contemporary Problems of Thermal Engineering, ISBN 978‐83‐61506‐54‐6, page 203.
+The paper is published in the peer‐reviewed Proceedings of the 6 International Conference on Contemporary Problems of Thermal Engineering, ISBN 978‐83‐61506‐54‐6, page 203: https://sin.akademia.mil.pl/publications/details/i5627
 
 Technical University Berlin, Faculty III Process Sciences, Institute for Energy Engineering
 
